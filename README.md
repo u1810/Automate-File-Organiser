@@ -49,4 +49,38 @@ Open a terminal or PowerShell and run:
 ```bash
 python main.py
 
+🔍 Files Processed:
+| File Name                                                                         | Type   | Destination Folder  |
+| --------------------------------------------------------------------------------- | ------ | ------------------- |
+| `organizer_log.txt`                                                               | Python | `Python\2025-07-19` |
+| `desktop.ini`                                                                     | Image  | `Images\2025-07-19` |
+| `kha.jpg`                                                                         | Image  | `Images\2025-07-19` |
+| `umm.jpg`                                                                         | Image  | `Images\2025-07-19` |
+| `WhatsApp Audio 2025-07-11 at 16.37.53_b5873059 (online-audio-converter.com).mp3` | Music  | `Music\2025-07-19`  |
+| `organizer_log.txt` (second move due to duplication or source reset)              | Python | `Python\2025-07-19` |
+
+📁 Output Folder Structure:
+python_task1/
+│
+├── Images/
+│   └── 2025-07-19/
+│       ├── kha.jpg
+│       ├── umm.jpg
+│       └── desktop.ini
+│
+├── Music/
+│   └── 2025-07-19/
+│       └── WhatsApp Audio ....mp3
+│
+├── Python/
+│   └── 2025-07-19/
+│       └── organizer_log.txt
+│
+├── Python/
+│   └── main.py
+
+📝 Final Result:
+✅ Total Files Moved: 6
+📂 Organized into: Images, Music, Python (each with 2025-07-19 folder)
+🧠 Log File: Updated with all actions inside organizer_log.txt
 
