@@ -1,0 +1,10 @@
+You can either:
+
+.Let the script generate it automatically after running
+OR
+
+.Manually create one with fake log content:
+
+text
+Copy
+Edit
