@@ -1,0 +1,23 @@
+🔍 Checking file: kha.jpg, Extension: .jpg
+📁 Moved 'kha.jpg' → 'Images\2025-07-19' at 2025-07-19 19:23:14
+🔍 Checking file: umm.jpg, Extension: .jpg
+📁 Moved 'umm.jpg' → 'Images\2025-07-19' at 2025-07-19 19:23:14
+🔍 Checking file: WhatsApp Audio 2025-07-11 at 16.37.53_b5873059 (online-audio-converter.com).mp3, Extension: .mp3
+📁 Moved 'WhatsApp Audio 2025-07-11 at 16.37.53_b5873059 (online-audio-converter.com).mp3' → 'Music\2025-07-19' at 2025-07-19 19:23:14
+🔍 Checking file: organizer_log.txt, Extension: .txt
+📁 Moved 'organizer_log.txt' → 'Python\2025-07-19' at 2025-07-19 19:23:14
+
+✅ Total files moved: 6
+PS C:\Users\ummul khair\OneDrive\Desktop\python_task1> 
+
+
+✅ Done! Your Repository Will Look Like:
+file-organizer-python/
+├── main.py
+├── README.md
+├── sample-files/
+│   ├── umm.jpg
+│   ├── kha.jpg
+│   ├── test.mp3
+│   └── test.ini
+└── organizer_log.txt
